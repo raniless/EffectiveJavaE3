@@ -4,9 +4,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+// Title : 클래스와 멤버의 접근 권한을 최소화 하라
 public class Item15 {
-    // Title : 클래스와 멤버의 접근 권한을 최소화 하라
-
     /*
      - 모든 클래스와 멤버의 접근성을 가능한 한 좁혀야 한다.
      - public 클래스의 인스턴스 필드는 되도록 public이 아니어야 한다.
