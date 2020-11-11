@@ -1,5 +1,6 @@
 package chapter04.item25;
 
+/*
 class Utensil {
     static final String NAME = "pot";
 }
@@ -7,3 +8,4 @@ class Utensil {
 class Dessert {
     static final String NAME = "pie";
 }
+*/
